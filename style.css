@@ -1,0 +1,52 @@
+body{
+    background-color: aliceblue;
+    color: black;
+}
+
+.header_div{
+    font-family: 'Square Peg', cursive;
+    background-color: lightgrey;
+    color: black;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+p{
+    font-family: 'Square Peg', cursive;
+    color: black;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+
+.main_div button{
+    font-family: 'Square Peg', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(60, 55, 55);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: whitesmoke;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+
+#result_confidence, #result_label{
+    font-size: 30px;
+}
+
+.id1, .id2{
+    font-size: 25px;
+}
+hr{
+    font-weight: bolder;
+    width: 10px;
+}
